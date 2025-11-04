@@ -21,7 +21,7 @@ Je m'intéresse particulièrement au **développement backend**, à **l'assemble
 
 ## 📫 Contact
 - Email : **idrisshassanguihini632@gmail.com**  
-- GitHub : https://github.com/`<ing_idrisshg>`  
+- GitHub : https://github.com/`<IdrissHassanGuihini>`  
 - LinkedIn : (idrisshassanguihini632@gmail.com)
 
 > N'hésite pas à regarder mes dépôts épinglés pour voir mes travaux. 🚀
